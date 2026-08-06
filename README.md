@@ -1,2 +1,2 @@
-# Darix-.hub
+# main.lua
 script mm2
